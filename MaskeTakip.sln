@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{3CC8EF02-3521-4F88-A001-E7F78F905EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{32C0CEAD-0970-402F-9063-BE6DBE342FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{DF77B60D-E04C-4C7B-8625-F58DF6579321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC8EF02-3521-4F88-A001-E7F78F905EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC8EF02-3521-4F88-A001-E7F78F905EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC8EF02-3521-4F88-A001-E7F78F905EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC8EF02-3521-4F88-A001-E7F78F905EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C0CEAD-0970-402F-9063-BE6DBE342FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C0CEAD-0970-402F-9063-BE6DBE342FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C0CEAD-0970-402F-9063-BE6DBE342FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C0CEAD-0970-402F-9063-BE6DBE342FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF77B60D-E04C-4C7B-8625-F58DF6579321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF77B60D-E04C-4C7B-8625-F58DF6579321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF77B60D-E04C-4C7B-8625-F58DF6579321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF77B60D-E04C-4C7B-8625-F58DF6579321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDBF448D-D41A-4150-9900-B76098EE55D9}
+	EndGlobalSection
+EndGlobal
